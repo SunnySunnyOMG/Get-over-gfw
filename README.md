@@ -73,7 +73,7 @@
 其实一般人用到一档的配置就可以了吧，当然你有特殊需要，给你整个16核CPU， 100000GB的翻墙服务器也是可以的（要上天吗？:):):):)）
 
 之前给朋友配置的就是一档配置，下图是服务器的管理界面（用的是洛杉矶机房，速度还行）：
-[img](/Users/zhexu/wooko/Get-over-gfw/upload_2017-12-31_20-12-13.png)
+![image](https://raw.githubusercontent.com/SunnySunnyOMG/Get-over-gfw/master/upload_2017-12-31_20-12-13.png)
 ```
 ### 那么需要再次声明的是
 #### 1.目前所有的配置都将会有一个专属于你的翻墙服务器，不与任何人公用~
